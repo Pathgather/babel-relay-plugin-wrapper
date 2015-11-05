@@ -1,0 +1,14 @@
+{
+  "name": "babel-relay-plugin-wrapper",
+  "version": "1.0.0",
+  "description": "A shimmy to let Webpack work with Relay and the Babel transform it requires",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guntars Asmanis-Graham",
+  "license": "MIT",
+  "dependencies": {
+    "babel-relay-plugin": "^0.3.0"
+  }
+}
